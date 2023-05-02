@@ -1,0 +1,108 @@
+body{
+    overflow-x: hidden;
+}
+nav{
+    display: flex;
+    gap: 30px;
+    margin-left: 400px;
+}
+.landpage{
+  background-color: #b197fc;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 470px;
+    display: flex;
+    margin-top: 20px;
+    font-size: medium;
+  
+}
+.head1{
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+button{
+    background-color: pink;
+    padding: 10px;
+    margin-left: 100px;
+}
+.weekely{
+    display: flex;
+    gap: 15px;
+}
+.three{
+    text-align: center;
+}
+.dresses{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.one{
+    width: 300px;
+    height: 300px;
+}
+.two{
+    width: 300px;
+    height: 300px;
+}
+.threee{
+    width: 300px;
+    height: 300px;
+    background-color: grey;
+}
+.four{
+    width: 300px;
+    height: 300px;
+}
+.butt{
+    margin-left: 50%;
+}
+.sporty{
+    background-image: url(images/treadmil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 600px;
+    height:830px;
+}
+.classic{
+    background-image: url(images/shoes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 700px;
+    height:450px;
+}
+.casual{
+    background-image: url(images/tryingshoe.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 700px;
+    height:350px;
+}
+.all{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.words{
+margin-left: -100px;
+font-size: medium;
+text-align: justify;
+
+}
+.joy img{ 
+  margin-left: -600px;
+ width: 1300px;
+ height: 600px;
+}
+.footer{
+    display: flex;
+    margin-left: -600px;
+    gap: 90px;
+    color:#b197fc;
+
+}
+.bu{
+    width: 160px;
+    margin-left: 15px;
+}
