@@ -1,0 +1,13 @@
+@media screen and (max-width:469px){
+    body{
+        width: 469px;
+    }
+    landpage{
+    width: 1000px;
+    height: 1000px;
+    }
+    .one{
+        width: 200px;
+        height: 200px;
+    }
+}
